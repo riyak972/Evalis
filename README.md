@@ -311,3 +311,4 @@ This project was built as part of an effort to promote:
 - Transparency in automated decision systems  
 
 Evalis is intended to help developers **think beyond accuracy** and consider fairness as a first-class concern.
+Updated README 🚀
